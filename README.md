@@ -17,5 +17,8 @@ This analysis is based on the dataset from Kaggle: [Vehicle Sales Data](https://
 6. **Chevrolet has a unique pricing pattern**, with its median and average sales lower than BMW and Ford, but still among the top five best-selling brands.
 7. **All brands show seasonal trends**, with peaks in February and June and a decline in April.
 
+## Dashboard
+Link : [Dashboard Tableau](https://public.tableau.com/views/Top5CarBrandsSalesSummary2014-2015/OverviewDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 This analysis provides valuable insights into the pricing trends and sales performance of the top five car brands, helping to understand market positioning and key factors influencing vehicle sales.
 
